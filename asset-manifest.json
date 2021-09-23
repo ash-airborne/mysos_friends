@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/mysos_friends/static/css/main.65deb718.chunk.css",
+    "main.js": "/mysos_friends/static/js/main.d2dcdfcd.chunk.js",
+    "main.js.map": "/mysos_friends/static/js/main.d2dcdfcd.chunk.js.map",
+    "runtime-main.js": "/mysos_friends/static/js/runtime-main.6889d16f.js",
+    "runtime-main.js.map": "/mysos_friends/static/js/runtime-main.6889d16f.js.map",
+    "static/css/2.6d7c7915.chunk.css": "/mysos_friends/static/css/2.6d7c7915.chunk.css",
+    "static/js/2.99ed027f.chunk.js": "/mysos_friends/static/js/2.99ed027f.chunk.js",
+    "static/js/2.99ed027f.chunk.js.map": "/mysos_friends/static/js/2.99ed027f.chunk.js.map",
+    "static/js/3.c43d8c43.chunk.js": "/mysos_friends/static/js/3.c43d8c43.chunk.js",
+    "static/js/3.c43d8c43.chunk.js.map": "/mysos_friends/static/js/3.c43d8c43.chunk.js.map",
+    "index.html": "/mysos_friends/index.html",
+    "static/css/2.6d7c7915.chunk.css.map": "/mysos_friends/static/css/2.6d7c7915.chunk.css.map",
+    "static/css/main.65deb718.chunk.css.map": "/mysos_friends/static/css/main.65deb718.chunk.css.map",
+    "static/js/2.99ed027f.chunk.js.LICENSE.txt": "/mysos_friends/static/js/2.99ed027f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6889d16f.js",
+    "static/css/2.6d7c7915.chunk.css",
+    "static/js/2.99ed027f.chunk.js",
+    "static/css/main.65deb718.chunk.css",
+    "static/js/main.d2dcdfcd.chunk.js"
+  ]
+}
